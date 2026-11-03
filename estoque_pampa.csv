@@ -1,0 +1,78 @@
+sku,marca,categoria,tamanhos_disponiveis,grade_estoque,status
+SKU-1001,Nike,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1002,Adidas,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1003,Olympikus,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1004,Mizuno,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1005,Asics,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1006,Puma,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1007,Under Armour,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1008,Fila,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1009,New Balance,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1010,Skechers,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1011,Reebok,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1012,Converse,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1013,Vans,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1014,Rainha,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1015,Topper,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1016,Penalty,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1017,Umbro,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1018,Mormaii,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1019,Diadora,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1020,Moleca,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1021,Vizzano,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1022,Beira Rio,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1023,Modare,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1024,Dakota,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1025,Kolosh,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1026,Mississipi,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1027,Campesi,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1028,Via Marte,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1029,Ramarim,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1030,Comfortflex,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1031,Usaflex,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1032,Piccadilly,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1033,Bottero,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1034,Cravo e Canela,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1035,Tanara,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1036,Santa Lolla,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1037,Arezzo,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1038,Anacapri,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1039,Schutz,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1040,Luiza Barcelos,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1041,Capodarte,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1042,Jorge Bischoff,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1043,Loucos e Santos,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1044,Pegada,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1045,Democrata,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1046,Ferracini,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1047,Rafarillo,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1048,West Coast,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1049,Macboot,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1050,Bull Terrier,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1051,Caterpillar,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1052,Timberland,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1053,Kildare,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1054,Samello,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1055,CNS,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1056,Sergio K,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1057,Osklen,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1058,Reserva,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1059,Havaianas,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1060,Ipanema,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1061,Rider,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1062,Cartago,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1063,Grendha,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1064,Zaxy,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1065,Melissa,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1066,Kenner,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1067,Crocs,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1068,Birkenstock,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1069,Kidy,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1070,Klin,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1071,Pampili,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1072,Bibi,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1073,Ortopé,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1074,Molekinha,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1075,Molekinho,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1076,Pimpolho,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
+SKU-1077,Tip Toey Joey,Calçados Gerais,"35 (2 un), 36 (2 un), 37 (2 un), 38 (2 un), 39 (2 un), 40 (2 un), 41 (2 un), 42 (2 un), 43 (2 un)",2 pares por número do 35 ao 43,Em Estoque
